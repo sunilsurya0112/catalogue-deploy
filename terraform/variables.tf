@@ -24,3 +24,7 @@ variable "environment" {
 variable "zone_name" {
   default = "sunil-devops.shop"
 }
+
+variable app_version {
+  
+}
